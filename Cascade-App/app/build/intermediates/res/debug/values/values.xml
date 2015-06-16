@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Armand/Google%20Drive/Code/Cascade-App/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="accounts">
+        <item>John</item>
+        <item>Vlad</item>
+        <item>Margaret</item>
+    </string-array>
+    <string-array name="cascade_sources">
+        <item>Source Vlad</item>
+        <item>Source Shashi</item>
+        <item>Source Armand</item>
+    </string-array>
+    <!-- From: file:/Users/Armand/Google%20Drive/Code/Cascade-App/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/Armand/Google%20Drive/Code/Cascade-App/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="IdOf">ID of </string>
+    <string name="action_settings">Settings</string>
+    <string name="alreadyOnSourceQuestion">Already on this source? Select your account:</string>
+    <string name="app_name">Cascade</string>
+    <string name="connectMyDevice">Connect my device</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="linkedSourceName">You are linked with </string>
+    <string name="loginText">No Cascade Source linked to your device, choose one in your WiFi network:</string>
+    <string name="newUserCreateAccount">New user? Create an account</string>
+    <string name="noCascadeSource"><u>No Cascade Source? Buy one.</u></string>
+    <string name="theIdIsAvailable">The ID is available on the back of your Cascade Source.</string>
+    <string name="title_activity_authentification_source">Authentication Source</string>
+    <string name="title_activity_authetication_source">Authentication Source</string>
+    <string name="title_activity_password_list">Accounts</string>
+    <string name="validate">Validate</string>
+    <!-- From: file:/Users/Armand/Google%20Drive/Code/Cascade-App/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="cascade.com.cascade_app.AuthenticationSource">
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" android:showAsAction="never" />
+</menu>
+<!-- From: file:/Users/Armand/Google%20Drive/Code/Cascade-App/app/src/main/res/menu/menu_authetication_source.xml -->

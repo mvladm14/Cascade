@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Cascade</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="loginText">No Cascade Source linked to your device, choose one in your WiFi network:</string>
+    <string name="connectMyDevice">Connect my device</string>
+    <string name="noCascadeSource"><u>No Cascade Source? Buy one.</u></string>
+    <string-array name="cascade_sources">
+        <item>Source Vlad</item>
+        <item>Source Shashi</item>
+        <item>Source Armand</item>
+    </string-array>
+    <string name="title_activity_password_list">Accounts</string>
+    <string name="title_activity_authentification_source">Authentication Source</string>
+    <string name="linkedSourceName">You are linked with </string>
+    <string name="alreadyOnSourceQuestion">Already on this source? Select your account:</string>
+    <string-array name="accounts">
+        <item>John</item>
+        <item>Vlad</item>
+        <item>Margaret</item>
+    </string-array>
+    <string name="validate">Validate</string>
+    <string name="newUserCreateAccount">New user? Create an account</string>
+    <string name="title_activity_authetication_source">Authentication Source</string>
+    <string name="IdOf">ID of </string>
+    <string name="theIdIsAvailable">The ID is available on the back of your Cascade Source.</string>
+</resources>
